@@ -1,0 +1,12 @@
+2021-10-05 20:35:59 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM CANDIDAT CANDIDAT CANDIDAT[*]"; SQL statement:
+SELECT * FROM CANDIDAT CANDIDAT CANDIDAT [42000-200]
+2021-10-05 20:36:02 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM CANDIDAT CANDIDAT CANDIDAT[*]"; SQL statement:
+SELECT * FROM CANDIDAT CANDIDAT CANDIDAT [42000-200]
+2021-10-05 20:36:03 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM CANDIDAT CANDIDAT CANDIDAT[*]"; SQL statement:
+SELECT * FROM CANDIDAT CANDIDAT CANDIDAT [42000-200]
+2021-10-05 20:36:13 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM CANDIDAT CANDIDAT CANDIDAT[*]"; SQL statement:
+SELECT * FROM CANDIDAT CANDIDAT CANDIDAT [42000-200]
